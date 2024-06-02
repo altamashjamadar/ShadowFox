@@ -2,7 +2,11 @@
 pi = 22 / 7
 print(type(pi))
 
+<<<<<<< HEAD
 #for = 4  #Invalid Syntax
+=======
+#for = 4  INvalid Syntax
+>>>>>>> origin/main
 P=int(input("enter principal amount"))
 R=int(input("Enter Rate"))
 T=2
@@ -62,6 +66,7 @@ print("Sorted Justice League :",justice_league)
 
 new_leader=justice_league[0]
 print("New Leader :",new_leader)
+<<<<<<< HEAD
 
 
 #4 if else
@@ -193,3 +198,8 @@ def main():
 if __name__ == "__main__":
     main()
 '''
+=======
+'''
+
+#4 if else
+>>>>>>> origin/main
