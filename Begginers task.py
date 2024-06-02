@@ -198,8 +198,4 @@ def main():
 if __name__ == "__main__":
     main()
 '''
-=======
-'''
 
-#4 if else
->>>>>>> origin/main
